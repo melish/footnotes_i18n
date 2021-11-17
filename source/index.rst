@@ -11,3 +11,4 @@ Test footnotes
    :caption: Contents:
 
    introduction
+   introduction_rst
