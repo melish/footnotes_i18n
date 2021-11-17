@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Valentin-Mihai Constantin
+# This file is distributed under the same license as the Test footnotes
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Test footnotes \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-17 10:38+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../introduction.md:1
+msgid "Footnotes"
+msgstr ""
+
+#: ../introduction.md:3
+msgid "[^1]"
+msgstr "[^1]: "
+
+#: ../introduction.md:8
+msgid "Test [^2]"
+msgstr "Test translation [^2]: "
+
+#: ../introduction.md:5
+msgid "Footnote definition 1"
+msgstr "Note de bas de page définition 1"
+
+#: ../introduction.md:10
+msgid "Footnote definition 2"
+msgstr "Note de bas de page définition 2"
+

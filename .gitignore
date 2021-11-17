@@ -1,0 +1,5 @@
+.venv
+build
+*.mo
+.dcignore
+README.md

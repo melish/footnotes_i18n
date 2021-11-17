@@ -1,0 +1,5 @@
+myst_parser
+Sphinx
+sphinx-intl
+sphinx-rtd-theme
+linuxdoc
